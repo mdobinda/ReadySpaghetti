@@ -7,7 +7,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <h3>don't care bozo</h3>
       <h4> AWESOME</h4>
-      <h4> AWESOME #2</h4>
+      <h4> AWESOME ducks r the coolest </h4>
     </div>
   );
 }
